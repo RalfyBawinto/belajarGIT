@@ -8,12 +8,12 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GiT:
-git checkout -b Tugas-git
-echo "ini adalah isi dari file Tugas-git.txt" > Tugas-git.txt
-git add Tugas-git.txt
-git commit -m "menambahkan file Tugas-git.txt"
-git switch main
-git merge Tugas-git
-git push origin main
+- git checkout -b Tugas-git
+- echo "ini adalah isi dari file Tugas-git.txt" > Tugas-git.txt
+- git add Tugas-git.txt
+- git commit -m "menambahkan file Tugas-git.txt"
+- git switch main
+- git merge Tugas-git
+- git push origin main
 ulangi sampai 7x sesuai dengan daftar tugas / branch setelah itu jalankan perintah dibawah:
-git git push origin --all
+- git git push origin --all
