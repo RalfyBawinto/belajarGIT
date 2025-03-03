@@ -17,4 +17,4 @@ Daftar perintah GiT:
 
 ulangi sampai 7x sesuai dengan daftar tugas / branch setelah itu jalankan perintah dibawah:
 
-- git git push origin --all tujuannya untuk mengunggah semua branch yang ada ke repository remote.
+- git push origin --all tujuannya untuk mengunggah semua branch yang ada ke repository remote.
